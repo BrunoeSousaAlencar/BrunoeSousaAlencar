@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Bruno Alencar🖖
-### Estou inciando na aria de programação, e desposto a ajudar nos seus projetos.</br>
+###  Estou iniciando na área de programação, e disposto a ajudar nos seus projetos.</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-e-sousa-alencar-860151248/)</br>
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoeSousaAlencar&show_icons=true&theme=tokyonight)
