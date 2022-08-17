@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Bruno Alencar🖖
+### Estou inciando na aria de programação, e desposto a ajudar nos seus projetos.</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoeSousaAlencar&show_icons=true&theme=tokyonight)
@@ -12,5 +13,3 @@
 </div></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoeSousaAlencar)](https://github.com/anuraghazra/github-readme-stats)</br>
-
-Estou inciando na aria de programação, e desposto a ajudar no seus projetos.
