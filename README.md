@@ -6,5 +6,5 @@
 ## Tecnologias que eu utilizo
 
 <div style="inline_block"><br/>
-  <img align="content" alt"html5" src"	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="conter" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
